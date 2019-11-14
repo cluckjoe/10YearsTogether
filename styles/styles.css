@@ -1,0 +1,459 @@
+body {
+  text-align: center;
+  background-image: url("background.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+div {
+  margin-top: 15px;
+}
+
+.continueButton {
+	 
+	width: 100px;
+    height: 100px;   
+  
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 14px;
+  font-weight:700;
+  cursor: pointer;
+  position:absolute;
+  top: 550px;
+  left: 280px;
+}
+
+.mainImage {
+
+  position: absolute;
+
+ border: 5px outset #8306C1;
+  text-align: center;
+  color: black;
+}
+
+.container {
+
+  position: absolute;
+  bottom: 500;
+  left: 100px;
+  text-align: center;
+  color: black;
+}
+
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.centered1 {
+  position: absolute;
+  top: 23%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered2 {
+  position: absolute;
+  top: 26%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered3 {
+  position: absolute;
+  top: 29%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered4 {
+  position: absolute;
+  top: 32%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered5 {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered6 {
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered7 {
+  position: absolute;
+  top: 41%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered8 {
+  position: absolute;
+  top: 44%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered9 {
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered10 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered11 {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered12 {
+  position: absolute;
+  top: 56%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.centered13 {
+  position: absolute;
+  top: 59%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered14 {
+  position: absolute;
+  top: 62%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered15{
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered16 {
+  position: absolute;
+  top: 68%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered17 {
+  position: absolute;
+  top: 71%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered18 {
+  position: absolute;
+  top: 74%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.title {
+	font-family: Papyrus, Fantasy, Arial;
+	color: white;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.torch1 {
+	position: absolute;
+	top: 0;
+	left: 600px;
+}
+.torch2 {
+	position: absolute;
+	top: 0;
+	left: 980px;
+}
+
+
+
+
+
+.alignmentText {
+justify-content: left;}
+
+.image-section {
+  display: flex;
+  justify-content: center;
+}
+
+.section-style {
+  margin-right: 25px;
+  margin-left: 25px;
+  background-color: white;
+}
+
+.button {
+	 
+    
+	width: 84px;
+    height: 40px;   
+  background-color: #4CAF50;
+  border: 2px solid #000000; /* Black */
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 10px;
+  font-weight:700;
+  cursor: pointer;
+    /*position:relative;
+    transition: .5s ease;
+    top: 191px;
+    left: 10px;*/
+    
+    
+ 
+}
+
+h2.characterSheet {
+	font-family:Papyrus,Fantasy,garamond,serif;
+	color: white;
+	position:relative;
+	left: -580px;
+}
+
+h2.enemyHeader {
+	font-family:Papyrus,Fantasy,garamond,serif;
+	color: white;
+	position:relative;
+	left: -580px;
+}
+
+.theTableEnemy {
+position:relative
+top: 191px
+}
+
+
+.buttonBadGuy {
+	 
+    	width: 84px;
+    height: 65px;   
+  background-color: #4CAF50;
+  border: 2px solid #000000; /* Black */
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 14px;
+  font-weight:700;
+  cursor: pointer;
+  position:relative;
+   top: -180px;
+   left: 350px;
+}
+
+.testButton {
+	 
+    	width: 84px;
+    height: 65px;   
+  background-color: #00FFFF;
+  border: black;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 14px;
+  font-weight:700;
+  cursor: pointer;
+  position:relative;
+   top: 0px;
+   left: 0px;
+}
+
+.buttonAttack {
+	 
+    
+	width: 84px;
+    height: 65px;   
+  background-color: #4CAF50;
+  border: 2px solid #000000; /* Black */
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 14px;
+  font-weight:700;
+  cursor: pointer;
+  position:relative;
+  top: -260px;
+  left: 150px;
+}
+
+.buttonReset {
+	 
+    
+	width: 65px;
+    height: 35px;   
+  background-color: #4CAF50;
+  border: 2px solid #000000; /* Black */
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 14px;
+  font-weight:700;
+  cursor: pointer;
+  position:fixed;
+  top: 0px;
+  left: 0px;
+}
+
+.enemySprite {
+	 
+    border-style: solid;
+	border-width: 5px;
+	 border-color: black;
+	width: 120px;
+    height: 120px;   
+    position:relative;
+    top: -150px;
+    left: 250px;
+}
+
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 500px;
+  right: 800px;
+  border: 3px solid #f1f1f1;
+
+}
+
+.attackLog {
+	position:relative;
+	color: white;
+	top: -100px;
+	left: 0px;
+}
+.attackLog2 {
+	position:relative;
+	color: white;
+	top: -100px;
+	left: 0px;
+}
+
+.open-button {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #000000; /* Black */
+  cursor: pointer;
+  opacity: 0.8;
+  position: relative;
+  top: -150px;
+  left: -740px;
+
+}
+.longsword-button {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #000000; /* Black */
+  cursor: pointer;
+  opacity: 0.8;
+  position: relative;
+ 
+
+}
+.dagger-button {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #000000; /* Black */
+  cursor: pointer;
+  opacity: 0.8;
+  position: relative;
+ 
+
+}
+
+.barehands-button {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #000000; /* Black */
+  cursor: pointer;
+  opacity: 0.8;
+  position: relative;
+ 
+
+}
+
+.nunchucks-button {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #000000; /* Black */
+  cursor: pointer;
+  opacity: 0.8;
+  position: relative;
+ 
+
+}
+
+.open-button-p {
+  position: relative;
+  top: -100px;
+  left: -800px;
+
+}
+
+.buttonAlignment {
+	 
+  width: 84px;
+  height: 40px;   
+  background-color: #4CAF50;
+  border: 2px solid #000000; /* Black */
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 10px;
+  font-weight:700;
+  cursor: pointer;
+     /*position:relative;
+    transition: .5s ease;
+    top: 110px;
+    left: -570px;*/
+    
+   
+}
+
+.buttonRace {
+	 
+   
+	width: 84px;
+    height: 40px;   
+  background-color: #4CAF50;
+  border: 2px solid #000000; /* Black */
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  font-size: 10px;
+  font-weight:700;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: green;
+}
+.buttonAlignment:hover {
+  background-color: green;
+}
+.buttonBadGuy:hover {
+  background-color: green;
+}
+.buttonAttack:hover {
+	background-color: green;
+}
+.buttonRace:hover {
+	background-color: green;
+}
+.buttonReset:hover {
+	background-color: green;
+}
+	
