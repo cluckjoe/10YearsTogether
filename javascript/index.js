@@ -340,6 +340,7 @@ const continueFunction = () => {
 		document.getElementById("centered11").innerHTML = "giving everything you have to";
 		document.getElementById("centered13").innerHTML = "help your children grow";
 		document.getElementById("centered12").innerHTML = "";
+		document.getElementById("centered14").innerHTML = "";
 		break;
 		case 30:
 	    document.getElementById("mainImage").src = "./30.jpg";
