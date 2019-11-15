@@ -6,8 +6,10 @@ const continueFunction = () => {
 		document.getElementById("mainImage").src = "./1.jpg";
 		document.getElementById("centered").innerHTML = "";
 		document.getElementById("centered9").innerHTML = "You've always been a goofball";
-		document.getElementById("centered10").innerHTML = "you walk to the beat of your own drum";
-		document.getElementById("centered11").innerHTML = "I love that about you";
+		document.getElementById("centered10").innerHTML = "";
+		document.getElementById("centered11").innerHTML = "";
+		document.getElementById("centered12").innerHTML = "you walk to the beat of your own drum";
+		document.getElementById("centered14").innerHTML = "I love that about you";
 		break;
 		default:
 		console.log('there isn\'t a programmed use case for this one');
