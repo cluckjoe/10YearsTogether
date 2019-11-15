@@ -323,10 +323,11 @@ const continueFunction = () => {
 		document.getElementById("mainImage").style.left = 700;
 		document.getElementById("centered8").innerHTML = "";
 		document.getElementById("centered9").innerHTML = "Having a baby wasn't easy";
-		document.getElementById("centered10").innerHTML = "but you were so strong through it all";
-		document.getElementById("centered12").innerHTML = "and Melody was brought into our lives";
+		document.getElementById("centered12").innerHTML = "but you were so strong through it all";
+		document.getElementById("centered14").innerHTML = "and Melody was brought into our lives";
 		document.getElementById("centered13").innerHTML = "";
 		document.getElementById("centered11").innerHTML = "";
+		document.getElementById("centered10").innerHTML = "";
 		break;
 		case 29:
 	    document.getElementById("mainImage").src = "./29.jpg";
