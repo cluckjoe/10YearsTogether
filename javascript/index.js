@@ -20,8 +20,10 @@ const continueFunction = () => {
 		document.getElementById("centered8").innerHTML = "You put your all into everything you do";
 		document.getElementById("centered9").innerHTML = "";
 		document.getElementById("centered10").innerHTML = "Working hard to advance and be the";
-		document.getElementById("centered11").innerHTML = "best player you can be.";
-		document.getElementById("centered13").innerHTML = "I love that about you";
+		document.getElementById("centered11").innerHTML = "";
+		document.getElementById("centered12").innerHTML = "best player you can be.";
+		document.getElementById("centered14").innerHTML = "I love that about you";
+		document.getElementById("centered13").innerHTML = "";
 		break;
 		case 3:
 	    document.getElementById("mainImage").src = "./3.jpg";
@@ -30,8 +32,8 @@ const continueFunction = () => {
 		document.getElementById("mainImage").style.left = 700;
 		document.getElementById("centered8").innerHTML = "";
 		document.getElementById("centered9").innerHTML = "You are so beautiful";
-		document.getElementById("centered10").innerHTML = "and I adore you";
-		document.getElementById("centered11").innerHTML = "";
+		document.getElementById("centered11").innerHTML = "and I adore you";
+		document.getElementById("centered10").innerHTML = "";
 		document.getElementById("centered13").innerHTML = "";
 		document.getElementById("centered12").innerHTML = "we have so many good memories together";
 		break;
