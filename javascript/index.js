@@ -36,8 +36,9 @@ const continueFunction = () => {
 		document.getElementById("centered9").innerHTML = "You are so beautiful";
 		document.getElementById("centered11").innerHTML = "and I adore you";
 		document.getElementById("centered10").innerHTML = "";
-		document.getElementById("centered13").innerHTML = "";
-		document.getElementById("centered12").innerHTML = "we have so many good memories together";
+		document.getElementById("centered12").innerHTML = "";
+		document.getElementById("centered14").innerHTML = "";
+		document.getElementById("centered13").innerHTML = "we have so many good memories together";
 		break;
 		case 4:
 	    document.getElementById("mainImage").src = "./4.jpg";
@@ -275,9 +276,9 @@ const continueFunction = () => {
 		document.getElementById("centered8").innerHTML = "";
 		document.getElementById("centered9").innerHTML = "and then we finally";
 		document.getElementById("centered10").innerHTML = "sealed the deal";
-		document.getElementById("centered11").innerHTML = "and agreed to a life together";
+		document.getElementById("centered12").innerHTML = "and agreed to a life together";
 		document.getElementById("centered13").innerHTML = "";
-		document.getElementById("centered12").innerHTML = "";
+		document.getElementById("centered11").innerHTML = "";
 		break;
 		case 25:
 	    document.getElementById("mainImage").src = "./25.jpg";
@@ -323,9 +324,9 @@ const continueFunction = () => {
 		document.getElementById("centered8").innerHTML = "";
 		document.getElementById("centered9").innerHTML = "Having a baby wasn't easy";
 		document.getElementById("centered10").innerHTML = "but you were so strong through it all";
-		document.getElementById("centered11").innerHTML = "and Melody was brought into our lives";
+		document.getElementById("centered12").innerHTML = "and Melody was brought into our lives";
 		document.getElementById("centered13").innerHTML = "";
-		document.getElementById("centered12").innerHTML = "";
+		document.getElementById("centered11").innerHTML = "";
 		break;
 		case 29:
 	    document.getElementById("mainImage").src = "./29.jpg";
@@ -397,8 +398,8 @@ const continueFunction = () => {
 		document.getElementById("centered10").innerHTML = "";
 		document.getElementById("centered11").innerHTML = "so perfect. You are the";
 		document.getElementById("centered13").innerHTML = "cornerstone of our family";
-		document.getElementById("centered14").innerHTML = "and I can't wait to spend the rest";
-		document.getElementById("centered15").innerHTML = "of forever with you <3";
+		document.getElementById("centered15").innerHTML = "and I can't wait to spend the rest";
+		document.getElementById("centered17").innerHTML = "of forever with you <3";
 
 		break;
 	}
