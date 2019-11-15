@@ -19,14 +19,13 @@ div {
   font-size: 14px;
   font-weight:700;
   cursor: pointer;
-  position:absolute;
-  top: 550px;
-  left: 280px;
+  position:relative;
+ 
 }
 
 .mainImage {
 
-  position: absolute;
+  position: relative;
 
  border: 5px outset #8306C1;
   text-align: center;
@@ -35,10 +34,10 @@ div {
 
 .container {
 
-  position: absolute;
+  position: relative;
 
-  top: 500;
-  left: 100px;
+  top: 50;
+  
   text-align: center;
   color: black;
 }
